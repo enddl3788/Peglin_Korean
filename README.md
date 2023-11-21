@@ -8,12 +8,10 @@
 기존 한글패치의 번역 미적용 문제를 해결했습니다.<br>
 번역 문장이 많고, 직접 번역하여 오역이 있을 수 있습니다!
 
-+ ㅌ이 들어간 단어는 다른 단어로 바뀜
-
 ## 패치 적용 방법
 
 1. 게임을 최신 버전으로 업데이트하세요.
-2. [[구글 드라이브로 이동]](https://drive.google.com/file/d/1dOSjEUDf_kLcs1wchbIX1sQGn4mf5Yj7/view?usp=sharing) 좌측 링크를 클릭하여, 한글 패치 파일을 다운받으세요.
+2. [[구글 드라이브로 이동]](https://drive.google.com/file/d/1P-O7EVREUmGHdbYlVsQLr67L3Hw0l9My/view?usp=sharing) 좌측 링크를 클릭하여, 한글 패치 파일을 다운받으세요.
 3. 'Peglin_Data.zip' 파일을 압축 해제 하세요.
 4. Steam 라이브러리에서 Peglin을 우클릭하여 '관리 -> 로컬 파일 보기' 를 클릭하세요.
 5. SteamLibrary\steamapps\common\Peglin 폴더가 열리는데,<br>
