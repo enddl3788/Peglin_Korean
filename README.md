@@ -11,7 +11,7 @@
 ## 패치 적용 방법
 
 1. 게임을 최신 버전으로 업데이트하세요.
-2. [[구글 드라이브로 이동]](https://drive.google.com/file/d/1P-O7EVREUmGHdbYlVsQLr67L3Hw0l9My/view?usp=sharing) 좌측 링크를 클릭하여, 한글 패치 파일을 다운받으세요.
+2. [[구글 드라이브로 이동]](https://drive.google.com/file/d/1isgmz0rkoWCDlYNBZV_x9JekyHdQr7fD/view?usp=drive_link) 좌측 링크를 클릭하여, 한글 패치 파일을 다운받으세요.
 3. 'Peglin_Data.zip' 파일을 압축 해제 하세요.
 4. Steam 라이브러리에서 Peglin을 우클릭하여 '관리 -> 로컬 파일 보기' 를 클릭하세요.
 5. SteamLibrary\steamapps\common\Peglin 폴더가 열리는데,<br>
@@ -22,7 +22,7 @@
 
 - 패치를 적용하고 문제가 생긴다면<br>
 Steam 라이브러리에서 Peglin을 우클릭하여 '속성 -> 설치된 파일 -> 무결성 검사' 를 클릭하세요.
-- 이 패치는 게임 버전 v0.9.32 에 대해 테스트되었습니다.
+- 이 패치는 게임 버전 v0.9.40 에 대해 테스트되었습니다.
 - 문제가 발생할 경우 이슈를 생성해주세요.
 
 ## 기여
